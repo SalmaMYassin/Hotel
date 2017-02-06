@@ -1,5 +1,5 @@
-# JavaProject_Hotel-Booking-System
-                          Hotel Booking System
+# Java Project - Hotel Booking System
+ 
 The objective of the assignment is to implement an online Hotel Booking System in a
 household. Your application should contain a minimum of the following classes: Hotel,
 HotelRoom, StaffMember, and Client. Clients can browse the available rooms, and
